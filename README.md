@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
 ## 📫 Connect with Me
 
-- [LinkedIn]([https://www.linkedin.com/in/katarzynaadamczyk/](https://www.linkedin.com/in/katarzyna-adamczyk-8050b662/))
-- [Email](adamczykkasia88@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/katarzynaadamczyk/)
+- [Email](mailto:adamczykkasia88@gmail.com)
 
 Thank you for visiting my profile!
