@@ -16,17 +16,13 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 - **Tools:** Git, Docker
 - **Databases:** MySQL, PostgreSQL
 
-## 📈 GitHub Stats
-
-![Katarzyna's GitHub stats](https://github-readme-stats.vercel.app/api?username=katarzynaadamczyk&show_icons=true&theme=radical)
-
 ## 🏆 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=katarzynaadamczyk&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=katarzynaadamczyk&layout=compact&theme=cobalt)
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/katarzynaadamczyk/)
+- [LinkedIn](https://www.linkedin.com/in/katarzyna-adamczyk-8050b662/)
 - [Email](mailto:adamczykkasia88@gmail.com)
 
 Thank you for visiting my profile!
