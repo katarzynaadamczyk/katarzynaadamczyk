@@ -5,7 +5,6 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 ## 🚀 About Me
 
 - 🌱 I’m currently learning advanced machine learning techniques and exploring new web development frameworks.
-- 💼 I'm currently working at BorgWarner as a TPM&CRIB Supervisor.
 - 💬 Ask me about machine learning algorithms, Python, or web development frameworks.
 - ⚡ Fun fact: I love riding my bike, walking and cooking.
 
