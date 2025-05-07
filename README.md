@@ -1,16 +1,16 @@
 # Hi there, I'm Katarzyna Adamczyk! 👋
 
-Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in machine learning, web development and AoC puzzles.
+Welcome to my GitHub profile! I'm a passionate software engineer with a keen interest in machine learning, web development and AoC puzzles.
 
 ## 🚀 About Me
 
 - 🌱 I’m currently learning advanced machine learning techniques and exploring new web development frameworks.
 - 💬 Ask me about machine learning algorithms, Python, or databases.
-- ⚡ Fun fact: I graduated at Warsaw University of Technology (Automatic Control and Robotics) as well as at University of Warsaw (Faculty of Modern Languages - Romance Philology).
+- ⚡ Fun fact: I graduated from Warsaw University of Technology (Faculty of Mechatronics - Automatic Control and Robotics) as well as from University of Warsaw (Faculty of Modern Languages - Romance Philology).
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** Python, JavaScript, C++
+- **Languages:** Python, C++, JavaScript
 - **Frameworks:** Flask
 - **Tools:** Git, Docker
 - **Databases:** MySQL, PostgreSQL
