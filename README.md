@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a keen int
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning advanced machine learning techniques and exploring new web development frameworks.
+- 🌱 I’m currently exploring more of Python ;) 
 - 💬 Ask me about machine learning algorithms, Python, or databases.
 - ⚡ Fun fact: I graduated from Warsaw University of Technology (Faculty of Mechatronics - Automatic Control and Robotics) as well as from University of Warsaw (Faculty of Modern Languages - Romance Philology).
 
